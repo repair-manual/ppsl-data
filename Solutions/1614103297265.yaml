@@ -1,0 +1,12 @@
+label: Liquid damage to keyboard, probable WS_KBD_ONOFF_L short to ground.
+description: >-
+  Caused by Liquid Damage, Bad Design
+
+
+  Power button is integrated into the keyboard, so liquid damage to any part of
+  keyboard can prevent power button from working. Short to ground on
+  WS_KBD_ONOFF_L results in 'power button always pressed' fail state - computer
+  thinks SMC being continuously reset and will never power on, with no fan spin
+  and no power draw.
+links:
+  - '1614103297263'

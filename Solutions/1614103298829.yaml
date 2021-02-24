@@ -1,0 +1,4 @@
+label: Backlight rail shorted to ground.
+description: Caused by Bad LCD Panel
+links:
+  - '1614103298827'

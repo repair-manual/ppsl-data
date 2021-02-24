@@ -1,0 +1,4 @@
+label: damaged dc-in board cable+connector
+description: Caused by caps shorted to ground + damaged dc-in cable
+links:
+  - '1614103290086'

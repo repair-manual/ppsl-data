@@ -1,0 +1,9 @@
+label: PP3V3_S4 short to ground
+description: >-
+  Caused by Bad capacitor
+
+
+  Corrosion on the board, visual inspection lead to bad capacitor, capacitor
+  replaced->fixed
+links:
+  - '1614103288922'

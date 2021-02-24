@@ -1,0 +1,7 @@
+label: Corroded charge port
+description: |-
+  Caused by Liquid Damage
+
+  Corroded capacitors on PPBUS_G3H line next to speaker output connector
+links:
+  - '1614103291892'

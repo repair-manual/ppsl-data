@@ -1,0 +1,11 @@
+description: ''
+number: 820-3209
+year: '2012'
+modelNumber: A1466
+modelID: MacBookAir5,2
+emc: EMC 2559
+problems:
+  - '1614103287901'
+  - '1614103294584'
+  - '1614103298353'
+  - '1614103299653'

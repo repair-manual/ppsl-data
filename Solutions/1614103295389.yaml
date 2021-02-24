@@ -1,0 +1,9 @@
+label: Liquid damage/corrosion at Real Time Clock (RTC) circuitry.
+description: >-
+  Caused by Liquid Damage
+
+
+  C1910 and RTC chip (U1900) removed, Corrosion removed, components replaced,
+  and this fixed the issue.
+links:
+  - '1614103295387'

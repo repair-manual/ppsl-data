@@ -1,0 +1,9 @@
+label: Corrosion at U1950 area.
+description: >-
+  Caused by Liquid Damage
+
+
+  U1950 replaced and a jumper wire was used there. The JTAG connector was
+  removed.
+links:
+  - '1614103290958'

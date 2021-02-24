@@ -1,0 +1,11 @@
+label: Short on PP3V3_UPC_XA_LDO
+description: >-
+  Caused by Bad capacitor
+
+
+  Not charging, charger stuck at 5V 200mA, corrosion next to CD3215 (chip
+  replaced but not needed), 1V on PP3V3_G3H, short circuit on PP3V3_UPC_XA_LDO
+  only bringing PP3V3_G3H down when machine is turned on, capacitor
+  replaced->fixed
+links:
+  - '1614103293004'

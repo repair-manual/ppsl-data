@@ -1,0 +1,9 @@
+label: Corrosion by PP3V42_G3H circuit, onewire circuit, ISL6259
+description: >-
+  Caused by Liquid Damage
+
+
+  Replaced: ISL6259, nasty capacitors by PP3V42_G3H circuit and onewire circuit
+  component that was corroded (U7001)
+links:
+  - '1614103291356'

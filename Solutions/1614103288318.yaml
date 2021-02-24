@@ -1,0 +1,4 @@
+label: Light on charger, 15 mA current draw, 4 V PPBUS_G3H
+description: Caused by Shorted current sense resistors
+links:
+  - '1614103288316'

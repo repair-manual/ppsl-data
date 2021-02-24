@@ -1,0 +1,11 @@
+label: >-
+  Short circuit or bad connection due to corrosion at U7090 (makes PP3V42_G3H)
+  and probe points at BIOS chip
+description: >-
+  Caused by Liquid Damage
+
+
+  Replaced U7090 and other corroded/damaged components and revived
+  probepoints->fixed
+links:
+  - '1614103291551'

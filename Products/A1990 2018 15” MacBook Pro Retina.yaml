@@ -1,0 +1,10 @@
+description: ''
+number: 820-01041
+year: '2018'
+modelNumber: A1990
+modelID: MacBookPro15,1
+emc: EMC 3215
+problems:
+  - '1614103290768'
+  - '1614103292814'
+  - '1614103293171'

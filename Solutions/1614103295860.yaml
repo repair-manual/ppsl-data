@@ -1,0 +1,10 @@
+label: missing PP3V3_G3H
+description: >-
+  Caused by bad u7000 (isl9239), bad input diode for u6903, bad c6905 and c6906
+  caps
+
+
+  Checking through the components responsible for creating PP3V3_G3H, looking at
+  enable and input voltages
+links:
+  - '1614103295858'

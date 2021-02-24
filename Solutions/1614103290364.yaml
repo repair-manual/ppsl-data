@@ -1,0 +1,13 @@
+label: >-
+  Corrosion on DC in board connector: no backlight because computer thinks
+  screen is always closed
+description: >-
+  Caused by Liquid Damage
+
+
+  Liquid damage along DC IN board connector on logic board = computer thinks
+  screen closed when it is open, no backlight. Also, LED driver damaged. DC IN
+  board cleaned, LED driver replaced, other corrosion around LED driver removed
+  -> fixed.
+links:
+  - '1614103290363'

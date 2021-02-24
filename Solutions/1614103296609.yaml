@@ -1,0 +1,9 @@
+label: Corrosion damage at U1950
+description: >-
+  Caused by Corrosion
+
+
+  Board taking 180mA, U1950 area corroded (visual inspection), replaced U1950,
+  replaced capacitor, replaced resistor and cleaned some corrosion->fixed
+links:
+  - '1614103296608'

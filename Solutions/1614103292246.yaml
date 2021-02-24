@@ -1,0 +1,10 @@
+label: Poor quality solder joints on GPU buck converter
+description: >-
+  Caused by Bad design / bad manufacturing
+
+
+  Reworked solder joints on U8900 -> fixed. This is a very common issue. Apple
+  refurb/warrant program glues rubber to this chip to apply pressure against the
+  case, but does not actually fix this problem.
+links:
+  - '1614103292244'

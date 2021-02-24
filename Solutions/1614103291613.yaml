@@ -1,0 +1,9 @@
+label: PPBUS_G3H short to ground
+description: >-
+  Caused by GPU MOSFET's gone bad because GPU buck converter U8900 became
+  desoldered from the board
+
+
+  Replaced GPU MOSFET's and resoldered GPU buck converter U8900->fixed
+links:
+  - '1614103291611'

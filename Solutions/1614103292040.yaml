@@ -1,0 +1,7 @@
+label: Shorted C6990, blown R6905
+description: |-
+  Caused by Liquid Damage
+
+  No PP3V42_G3H rail because of shorted cap C6990 which also blew R6905
+links:
+  - '1614103292038'

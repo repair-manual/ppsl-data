@@ -1,0 +1,10 @@
+label: ISL9240 bad
+description: >-
+  Caused by Component failure
+
+
+  ISL9240 cracked. This chip is fragile and will frequently break if device
+  dropped etc. Unlike previous generations, this chip unavailable for sale -> no
+  fix because Louis had no replacement chip.
+links:
+  - '1614103292813'

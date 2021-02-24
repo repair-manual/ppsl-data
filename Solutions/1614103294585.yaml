@@ -1,0 +1,11 @@
+label: >-
+  Chipped/corroded capacitor in backlight circuit (back light fuse was replaced
+  also)
+description: >-
+  Caused by Liquid Damage
+
+
+  Customer removed broken capacitor, new capacitor was placed, SPI ROM chip was
+  corroded and those pads were cleaned.
+links:
+  - '1614103294583'

@@ -1,0 +1,9 @@
+label: Short to ground on PPBUS_G3H through PPBUS_S5_HS_OTHER_ISNS
+description: >-
+  Caused by Bad capacitor (cracked)
+
+
+  Cracked capacitor, drawing 36mA on charger, replaced capacitor and
+  fuse->flixed
+links:
+  - '1614103293090'

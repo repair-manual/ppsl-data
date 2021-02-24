@@ -1,0 +1,9 @@
+label: PP3V3_G3H on Pin10 enable line has 0.0V, ISO9239 area is very hard corroded
+description: >-
+  Caused by Liquid Damage
+
+
+  Touch Bar, Issue according to Wiki: PP3V3_G3H missing due to PM_EN_P3V3_G3H
+  missing due to bad ISL9239
+links:
+  - '1614103296352'

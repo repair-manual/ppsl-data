@@ -1,0 +1,13 @@
+label: dirty between CB321 and heatshield
+description: >-
+  Caused by Component failure
+
+
+  Capacitor CB300 is in a tight space  - needed to slightly bend metal shield
+  out of the way. Removed CB300 with micro soldering pencil, but needed metal
+  foil (as a heat shield over CB3215) and hot air station at 300 degrees to get
+  new CB300 in place. Stopped hot air as soon as cap was in place to avoid
+  melting solderballs under CB3215. Did not see the logic board part number in
+  the video.
+links:
+  - '1614103287444'

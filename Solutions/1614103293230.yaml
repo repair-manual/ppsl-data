@@ -1,0 +1,10 @@
+label: 5v 20mA power draw. corrosion on CD3215
+description: >-
+  Caused by Liquid Damage
+
+
+  Skip to 8.00 (he doesn't fix the first laptop on camera). Couldn't identify
+  the board but there is already an entry on wiki about corrosion on CD3215, so
+  nothing to do here
+links:
+  - '1614103293228'

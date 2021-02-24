@@ -1,0 +1,9 @@
+label: Shorted cap, and U6990 not soldered properly.
+description: >-
+  Caused by Defective components
+
+
+  R6905 replaced, U6990 resoldered, shorted capacitor replaced. Fixed (fan
+  spin).
+links:
+  - '1614103298538'

@@ -1,0 +1,9 @@
+label: PM_EN_PP3V3_G3H (U6903 chip pin 10) 0v
+description: >-
+
+
+  after replacing ISL9239 same 5v 10mA power draw, however PM_EN_PP3V3_G3H has
+  5v, further investigation finds a short at CB300. Removing CB300 fixes the
+  problem. CB300 failure is common on 820-00239 boards.
+links:
+  - '1614103291741'

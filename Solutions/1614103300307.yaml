@@ -1,0 +1,4 @@
+label: 'Enable pin : Should get voltage on pin 4 (the LP 8543sQ)'
+description: Caused by Liquid Damage
+links:
+  - '1614103300305'

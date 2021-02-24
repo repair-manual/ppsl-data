@@ -1,0 +1,7 @@
+label: Missing PM_SLP_S4_L
+description: |-
+  Caused by Bad U1900 clock chip
+
+  Replacement of U1900 fixed the issue
+links:
+  - '1614103295609'

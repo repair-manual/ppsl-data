@@ -1,0 +1,7 @@
+label: pp_en_p3v3_s5g missing
+description: |-
+  Caused by bad solder of PMIC (U7800), bad caps near PMIC
+
+  PMIC (U7800) rehot and replacement of corroded caps fixed the issue
+links:
+  - '1614103295932'

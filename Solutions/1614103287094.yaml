@@ -1,0 +1,10 @@
+label: PPBUS_G3H short to ground
+description: >-
+  Caused by Bad capacitor
+
+
+  20.4V, 19-20mA, 0.7Ohm short to ground on PPBUS_G3H caused by bad capacitor,
+  1Ohm resistor from U7000 (ISL9239) current sensing circuit replaced and bad
+  capacitor replaced->fixed
+links:
+  - '1614103287093'

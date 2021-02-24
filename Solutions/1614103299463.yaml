@@ -1,0 +1,4 @@
+label: Q5660 is bad, resulting in 2K on R5661, instead of 100K
+description: Caused by Liquid Damage
+links:
+  - '1614103299461'

@@ -1,0 +1,7 @@
+label: Corrosion under CD3215
+description: |-
+  Caused by Liquid Damage
+
+  5V instead of 20V,  taking 20mA
+links:
+  - '1614103291237'

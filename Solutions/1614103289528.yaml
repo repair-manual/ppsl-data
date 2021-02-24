@@ -1,0 +1,10 @@
+label: Backlight
+description: >-
+  Caused by screen cable and connector damaged
+
+
+  0v on backlight, removing the screen cable we have 170kohms, opening the
+  screen we can see that both cable and screen connector are damaged, replacing
+  them fixed
+links:
+  - '1614103289526'

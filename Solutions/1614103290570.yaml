@@ -1,0 +1,7 @@
+label: Area near ISL9239 has liquid damage
+description: |-
+  Caused by Liquid Damage
+
+  Replacing ISL9239 solved the problem
+links:
+  - '1614103290568'

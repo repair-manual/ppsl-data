@@ -1,0 +1,10 @@
+label: corrosion around SMC
+description: >-
+  Caused by Liquid Damage
+
+
+  SMC reflowed. Components around SMC removed, pads cleaned up, components
+  restored, jumper wire used. PP3V42_G3G shorted. clock chip was replaced and
+  this cleared the short. Fixed.
+links:
+  - '1614103294527'

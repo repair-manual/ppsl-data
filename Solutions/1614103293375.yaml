@@ -1,0 +1,9 @@
+label: Corrosion in ISL6259 (U7100) and Thunderbolt area.
+description: >-
+  Caused by Liquid Damage/corrosion
+
+
+  ISL6259 and surrrounding area (including Thunderbolt T29 Boost  Regulator)
+  were removed. Area cleaned up and components replaced. -> Fixed.
+links:
+  - '1614103293373'

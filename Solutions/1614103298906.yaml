@@ -1,0 +1,7 @@
+label: Corrosion
+description: |-
+  Caused by Corroded trace in backlight voltage generation circuit
+
+  A battery wire was used to bridge the gap between L9701 and U9701.
+links:
+  - '1614103298904'

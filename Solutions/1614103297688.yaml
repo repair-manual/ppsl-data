@@ -1,0 +1,7 @@
+label: PM_SLP_S4_L missing
+description: |-
+  Caused by Corrosion at RTC circuit
+
+  Board cleaned in sonicator->fixed
+links:
+  - '1614103297687'

@@ -1,0 +1,10 @@
+label: PP3v42_G3H low (3.0V, should be 3.42)
+description: >-
+  Caused by Unclear
+
+
+  Prior repair attempt (visible mess on board.) Stuff in this area reflowed and
+  cleaned -> PP3v42_G3H restored. Also some issue with PPBUS_G3H which
+  apparently fixed itself.
+links:
+  - '1614103287829'

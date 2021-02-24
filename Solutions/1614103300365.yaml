@@ -1,0 +1,4 @@
+label: Signaling voltage from PP3V42G3H is 1.7 instead of expected 3.4V
+description: Caused by Liquid Damage
+links:
+  - '1614103300362'

@@ -1,0 +1,9 @@
+label: Braindead
+description: >-
+  Caused by Liquid Damage
+
+
+  Taking 240mA, 0V on screen, corrosion at U5110, U1900 and U1950, reflow of
+  corroded areas->fixed
+links:
+  - '1614103294471'

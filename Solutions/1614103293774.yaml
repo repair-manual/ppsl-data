@@ -1,0 +1,9 @@
+label: Charger stuck at 5V, 100mA
+description: >-
+  Caused by Corrosion
+
+
+  Corroded capacitor next to CD3215, reflow of CD3215 and replaced corroded
+  capacitor->fixed
+links:
+  - '1614103293773'

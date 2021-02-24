@@ -1,0 +1,10 @@
+label: Liquid shorted pp3v3so to ground on ssd connector
+description: >-
+  Caused by Liquid Damage
+
+
+  Liquid shorted pp3v3so to ground on ssd pins 6 and 7, connector was replaced
+  with donor board and pin 6 and 7 on the ssd were insulated (with "green
+  stuff") -> fixed
+links:
+  - '1614103292186'

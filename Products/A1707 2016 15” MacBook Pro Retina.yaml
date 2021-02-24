@@ -1,0 +1,10 @@
+description: ''
+number: 820-00281
+year: '2016'
+modelNumber: A1707
+modelID: MacBookPro13,3
+emc: EMC 3072
+problems:
+  - '1614103288923'
+  - '1614103290569'
+  - '1614103291238'

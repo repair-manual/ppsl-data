@@ -1,0 +1,7 @@
+label: 270mA power draw, 0.8V on PPBUS_G3H
+description: |-
+  Caused by Component failure
+
+  PPBUS_G3H short to ground. Bad tantalum capacitor. Cap replaced -> fixed.
+links:
+  - '1614103287646'
