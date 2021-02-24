@@ -1,5 +1,12 @@
 # PPSL-TEST
 
+## License for data
+**GNU Free Documentation License 1.3 or later.**
+
+For the main use in [Rossmann Repair Group](https://wiki2.rossmanngroup.com/index.php?title=Main_Page)'s Wiki.
+
+A thanks to all of the people who contributed to the Google Docs that this data is scraped from.
+
 ## Relation
 Product has problems.
 Problems may have solutions.
@@ -24,4 +31,3 @@ Legends: `?` = May be left optional
   - label `string` `?`
   - description `string` `?`
   - url `string` `?`
-  
