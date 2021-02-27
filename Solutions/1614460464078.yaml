@@ -1,0 +1,9 @@
+label: DC in board has corroded traces
+description: >-
+  DC in board has corroded traces around TC7SZ08AFEAPE or MAX9940 for onewire
+  circuit.
+
+
+  (Check onewire circuit diagram on older boards like 820-2530 - this is present
+  on the DC in board now of the *A1466/A1465/A1369/A1370 Macbook Air)
+links: []
