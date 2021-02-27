@@ -1,0 +1,7 @@
+label: Dead U1900 and/or C1910
+description: |-
+  Caused by Liquid Damage, Bug Damage
+
+  Had to get PPVRTC_G3H from another part of the board to replaced C1910
+links:
+  - '800'

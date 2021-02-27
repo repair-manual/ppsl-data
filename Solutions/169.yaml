@@ -1,0 +1,7 @@
+label: Possible thermal damage to CPU due to bad design (no heat pipe)
+description: |-
+  Caused by Bad design
+
+  No fix. Schematic not available as of May 2020.
+links:
+  - '167'

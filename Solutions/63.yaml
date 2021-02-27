@@ -1,0 +1,7 @@
+label: Bad ISL6259 (U7100) and Q7130 (transistor)
+description: |-
+  Caused by Corrosion
+
+  PPBUS_G3H 17.5V, ISL6259 (U71000) and Q7130 (transistor) replaced->fixed
+links:
+  - '61'

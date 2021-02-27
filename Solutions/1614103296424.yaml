@@ -1,7 +1,0 @@
-label: Other charging port not working
-description: |-
-  Caused by bad CD3215C00 chips
-
-  Replaced both CD3215C00 chips
-links:
-  - '1614103296421'

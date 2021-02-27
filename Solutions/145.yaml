@@ -1,0 +1,9 @@
+label: >-
+  PP3V3_G3H missing due to a short circuit on the input to PP3V3_G3H creation
+  circuit
+description: |-
+
+
+  fixed by replacing C6906 and D6902
+links:
+  - '143'

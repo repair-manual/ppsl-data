@@ -1,0 +1,7 @@
+label: LCD cable burned, bad LCD connector
+description: |-
+  Caused by bad LCD Connector
+
+  resolder LCD connector and plug screen back on
+links:
+  - '637'

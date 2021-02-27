@@ -1,0 +1,10 @@
+label: No power, 10mA power draw at 20V, PPBUS_G3H shorted to ground
+description: >-
+  Caused by Liquid Damage
+
+
+  G3H shorted to ground -> replaced corroded cap -> short gone. Now power
+  cycling: 10-30mA draw at 20V. PP5V_S4 shorted to ground, eventually found bad
+  cap by injecting voltage and thermal imaging, replaced cap -> fixed.
+links:
+  - '362'

@@ -1,8 +1,8 @@
-description: ''
+description: Released late 2018.
 number: 820-01521
 year: '2018'
 modelNumber: A1932
 modelID: MacBookAir8,1
-emc: EMC 3184
+emc: '3184'
 problems:
-  - '1614103291893'
+  - '313'

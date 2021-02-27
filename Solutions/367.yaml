@@ -1,0 +1,11 @@
+label: No power, 40-65mA power draw
+description: >-
+  Caused by Corrosion
+
+
+  Corrosion found on/around U1930. If this chip is bad it can short any of
+  PM_SLP_S4_L, ALL_SYS_PWRGD or CPU_VCCST_PWRGD to ground. In this case, pin 6
+  bad, CPU_VCCST_PWRGD missing -> no S0 state -> no power. Cleaned up and
+  replaced U1930 -> fixed.
+links:
+  - '366'

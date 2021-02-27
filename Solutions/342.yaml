@@ -1,0 +1,10 @@
+label: Plenty of corrosion.
+description: >-
+  Caused by Liquid Damage
+
+
+  Corroded areas were replaced (ISL6259 and U7400), broken traces were repaired.
+  Further troubleshooting of low PPBUS_G3H revealed a broken trace inside board.
+  This was fixed too. Fixed.
+links:
+  - '340'

@@ -1,7 +1,0 @@
-label: Cable installed backwards, fan prevented from spinning
-description: |-
-  Caused by Bad previous repair attempt
-
-  Cable installed properly -> powers on. L8304 replaced -> fixed.
-links:
-  - '1614103288657'

@@ -1,0 +1,11 @@
+label: Corrosion around thunderbolt ROM chip (UB090) - two resistors replaced
+description: >-
+  Caused by Liquid Damage
+
+
+  Two corroded resistors between USB-C chip and thunderbolt ROM chip (UB090)
+  where replaced: (1) RB290: 100ohm resistor on TBT_T_SPI_CLK_DBG line (not a
+  cause of problem - device should work fine without it); (2) RB090: 3k3 pull-up
+  resistor to PP3V3 on TBT_T_ROM_HOLD_L line (ROOT CAUSE)
+links:
+  - '233'

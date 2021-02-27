@@ -1,7 +1,0 @@
-label: Short on PP5V_S0, bad capacitor C6412
-description: |-
-  Caused by Bad capacitor
-
-  PP5V_S0 was shorted (because of bad cap) - and PP5V_S3 will read short as well
-links:
-  - '1614103293558'

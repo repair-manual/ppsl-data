@@ -1,0 +1,5 @@
+label: No Power and not charging -> no backlight, no image
+description: ''
+solutions:
+  - '106'
+  - '107'

@@ -1,7 +1,0 @@
-label: Area around U7501 corroded resulting in broken PP5V_S5 LDO, PP3V3_S5
-description: |-
-  Caused by Liquid Damage
-
-  Tip Right after spill:Take Bottom Cover off, unplug Battery
-links:
-  - '1614103290494'

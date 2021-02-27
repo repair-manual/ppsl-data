@@ -1,0 +1,10 @@
+label: PP3V3_G3H is 0.3V caused by active short
+description: >-
+  Caused by Bad pi3usb32
+
+
+  PP3V3_G3H pulled down to 0.3V by active short (resistance to ground measured
+  380KOhm), used thermal cam to find that pi3usb32 (USB switch, not present on
+  boardview) is getting hot, replaced pi3usb32->fixed
+links:
+  - '301'

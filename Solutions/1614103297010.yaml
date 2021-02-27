@@ -1,9 +1,0 @@
-label: SMC is not turning on.
-description: >-
-  Caused by Corrosion
-
-
-  U5110 is not turning on the SMC as there was corrosion on R5100 which would
-  pull up the SMC reset line. Corrosion removed, and we have fan spin.
-links:
-  - '1614103297009'

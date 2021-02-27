@@ -1,7 +1,0 @@
-label: ''
-description: |-
-  Caused by corrosion on SPI_CS0_L
-
-  corrosion on SPI_CS0_L probe, removing the corrosion fixed the board
-links:
-  - '1614103289415'

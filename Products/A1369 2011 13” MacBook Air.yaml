@@ -1,8 +1,8 @@
-description: ''
+description: Released mid 2011.
 number: 820-3023
 year: '2011'
 modelNumber: A1369
 modelID: MacBookAir4,2
-emc: EMC 2469
+emc: '2469'
 problems:
-  - '1614103299337'
+  - '1077'

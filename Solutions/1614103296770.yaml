@@ -1,7 +1,0 @@
-label: PP5V_S5 cycling between 1 and 5 volts, PP5V_S4 shorted
-description: |-
-  Caused by Bad capacitor (cracked)
-
-  Retina
-links:
-  - '1614103296768'

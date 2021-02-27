@@ -1,7 +1,0 @@
-label: 0.2A,  short to ground on PPBUS_G3H
-description: |-
-  Caused by Bad Capacitor
-
-  Resistance between PPBUS_G3H and CPU coil= 22 Ohm, capacitor replaced->fixed
-links:
-  - '1614103294913'

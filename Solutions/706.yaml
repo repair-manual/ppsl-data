@@ -1,0 +1,9 @@
+label: U9600 (video mux) was not soldered on board properly.
+description: >-
+  Caused by Bad soldering/board flexing
+
+
+  U9600 was poked a bit and problem was confirmed. Underfill was removed and
+  Paul reflowed the chip. Ths resolved the problem.
+links:
+  - '704'

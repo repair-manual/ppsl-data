@@ -1,0 +1,6 @@
+label: >-
+  Green light on charger, Does not turn on. PPBUS_G3H was at 1.7V, CPU getting
+  hot.
+description: ''
+solutions:
+  - '1030'

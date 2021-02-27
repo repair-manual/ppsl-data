@@ -1,7 +1,0 @@
-label: 'Restistant to ground: with screen 24Ohm, unplugged screen 300Ohm'
-description: |-
-  Caused by bad LCD Connector
-
-  resolder LCD connector and plug screen back on
-links:
-  - '1614103296477'

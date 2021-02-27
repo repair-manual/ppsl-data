@@ -1,7 +1,0 @@
-label: 5.22 volts, 0A, doesn't change to 20V before it dies - it immediately dies
-description: |-
-  Caused by CD3215 corroded
-
-  power cycling 5v between 0-30mA and 0-300mA
-links:
-  - '1614103295196'

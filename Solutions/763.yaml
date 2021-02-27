@@ -1,0 +1,10 @@
+label: Broken connection between Pin 4 of U6901 to Pin 1 of U6900
+description: >-
+  Caused by Liquid Damage, Previous Repair Attempt
+
+
+  Adapter Sense line not communicating to charger. U6900 not getting proper
+  input (pin 1) and not turning on. U6901 is providing proper output on pin 4,
+  but no connection to U6900. Jumper wire was ran. Fixed
+links:
+  - '761'

@@ -1,0 +1,11 @@
+label: A lot of corrosion at SMC, LED driver chip, Thunderbolt chip, ....
+description: >-
+  Caused by Liquid Damage
+
+
+  JTAG removed, Repaired all corrosion including: LED driver replaced, SMC
+  reflow, Thunderbolt chip replaced, screen connector cleaned and connections
+  resoldered, several corroded components in memory area and screen power area
+  replaced, jumper wire for screen backlight output->fixed
+links:
+  - '73'

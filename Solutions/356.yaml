@@ -1,0 +1,10 @@
+label: R9350 corroded
+description: >-
+  Caused by Liquid Damage
+
+
+  Can't distinguish between 2 possible boards based on video. R9350 corroded
+  (fell off board while being measured) -> replaced -> fixed. Liquid spills
+  commonly end up on the SSD circuit (piccolo) on this model.
+links:
+  - '355'

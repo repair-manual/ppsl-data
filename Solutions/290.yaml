@@ -1,0 +1,7 @@
+label: Generalized corrosion
+description: |-
+  Caused by Liquid Damage
+
+  No Vin at U7090 due to bad diode D7012
+links:
+  - '288'

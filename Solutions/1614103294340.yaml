@@ -1,9 +1,0 @@
-label: Cossorion at SMC reset circuit.
-description: >-
-  Caused by Liquid Damage/corrosion
-
-
-  Corrosion removed from PP3V42_G3H and SMC Reset circuit and this caused the
-  fan to spin again.
-links:
-  - '1614103294337'

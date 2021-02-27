@@ -1,0 +1,10 @@
+label: PP3V3_G3H is low (1.5V)
+description: >-
+  Caused by Corrosion/bad ISL9239
+
+
+  5V 0A on charger, PM_EN_P3V3_G3H missing (0.05V) beacuse of bad ISL9239,
+  PP3V3_G3H low (1.5V) caused by corroded capacitors for LDO (next to CD3215),
+  replaced ISL9239 and capacitors->fixed
+links:
+  - '257'

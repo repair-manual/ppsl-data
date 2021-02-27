@@ -1,0 +1,7 @@
+label: 5ohm short on PPBUS_G3H line
+description: |-
+  Caused by Liquid Damage
+
+  Corroded capacitors on PPBUS_G3H line next to speaker output connector
+links:
+  - '312'

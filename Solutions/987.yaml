@@ -1,0 +1,9 @@
+label: Missing backlight power on display connector
+description: >-
+  Caused by Liquid Damage
+
+
+  Power on LED driver output OK but not on display connector. Probably burnt pad
+  or track. Rewired directly from LED driver to connector.
+links:
+  - '984'

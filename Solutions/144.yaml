@@ -1,0 +1,7 @@
+label: 5v 38mA power draw
+description: |-
+
+
+  fixed by replacing C6906 and D6902
+links:
+  - '143'

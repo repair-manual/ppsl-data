@@ -1,6 +1,0 @@
-label: >-
-  when turning the board on without the battery it is not turning
-  on/off/on/off/on, the fan spins at max speed continuously
-description: ''
-solutions:
-  - '1614103289765'

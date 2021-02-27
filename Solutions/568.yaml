@@ -1,0 +1,7 @@
+label: SMC not doing its job
+description: |-
+  Caused by Corrosion of SMC connections
+
+  SMC rehot fixed corroded connection
+links:
+  - '566'

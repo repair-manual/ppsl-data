@@ -1,0 +1,9 @@
+label: Q7010 not turning on because zener diode D7012 (HA) died
+description: >-
+  Caused by Liquid Damage
+
+
+  D7012 was replaced, power went through Q7010 as it should and fan spin
+  occurred (aka fixed).
+links:
+  - '520'

@@ -1,0 +1,6 @@
+label: >-
+  If feedback trace burned, connect with wire from one of the points that has
+  feedback to backlight output
+description: Caused by Liquid Damage
+links:
+  - '1090'

@@ -1,7 +1,0 @@
-label: SMC_RESET_L low
-description: |-
-  Caused by Corrosion under SMC
-
-  SMC reflow->fixed
-links:
-  - '1614103297756'

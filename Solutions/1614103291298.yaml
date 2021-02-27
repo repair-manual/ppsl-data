@@ -1,8 +1,0 @@
-label: Taking 113mA, 15ohm short on PP3V42_G3H
-description: >-
-
-
-  Replaced whole PP3V42 circuit, no change. Injected 3.42 volts and SMC heated
-  up to 159 celsius! Replaced SMC and it works.
-links:
-  - '1614103291296'

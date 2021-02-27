@@ -1,0 +1,7 @@
+label: SSD not detected
+description: |-
+  Caused by Broken trace
+
+  Trace connected to R9350 was damaged, replaced by wire-> fixed
+links:
+  - '207'

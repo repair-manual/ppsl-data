@@ -1,0 +1,11 @@
+label: >-
+  Stuck at 5V on the USB-C charger, PP3V3_G3H has 5V input but 0V output,
+  PP3V3_G3H area has corrosion
+description: >-
+  Caused by Liquid Damage
+
+
+  Touch Bar, Issue according to Wiki: PP3V3_G3H missing due to PM_EN_P3V3_G3H
+  missing due to bad ISL9239
+links:
+  - '627'

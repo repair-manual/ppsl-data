@@ -1,0 +1,6 @@
+label: >-
+  Replace U6901 if you have both PP3V42_G3H_ONEWIRE and SMC_BC_ACOK, but no
+  SMC_BC_ACOK_VCC
+description: ''
+links:
+  - '1103'

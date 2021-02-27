@@ -1,0 +1,5 @@
+label: Power Loop (5v 300mA for a few seconds then reboot)
+description: ''
+solutions:
+  - '235'
+  - '236'

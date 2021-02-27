@@ -1,11 +1,11 @@
-description: ''
+description: Released mid 2017.
 number: 820-00928
 year: '2017'
 modelNumber: A1707
 modelID: MacBookPro14,3
-emc: EMC 3162
+emc: '3162'
 problems:
-  - '1614103287386'
-  - '1614103289216'
-  - '1614103293701'
-  - '1614103294643'
+  - '24'
+  - '140'
+  - '426'
+  - '490'

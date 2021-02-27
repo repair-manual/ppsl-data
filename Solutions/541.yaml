@@ -1,0 +1,7 @@
+label: USB3 and HDMI on right IO board defective
+description: |-
+  Caused by burned connector on motherboard end
+
+  Retina
+links:
+  - '539'

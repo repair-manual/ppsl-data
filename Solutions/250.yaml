@@ -1,0 +1,11 @@
+label: Bad trace between R7186 and adjacent probe point
+description: >-
+  Caused by Bad trace
+
+
+  20mA power draw and 1.1V on PPBUS_G3H. The trace from R7186 to the ISL (U7100)
+  was ok, trace from R7186 to its adjacent probe point bad. This is almost
+  invisible and is rare (Louis had not seen this exact issue before.) Replaced
+  trace with a wire -> fixed.
+links:
+  - '249'

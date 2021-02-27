@@ -1,9 +1,0 @@
-label: Logic Board Repair
-description: >-
-  Caused by corrosion
-
-
-  PP5VS5 was 1.1V, consumes 24mA, pubes under u7501 (corrosion); Turned on after
-  replacing u7501
-links:
-  - '1614103293919'

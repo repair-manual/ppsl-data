@@ -1,7 +1,0 @@
-label: PM_SLP_S4_L signal missing
-description: |-
-  Caused by Corrosion at probe points in SPI ROM area (maybe from liquid damage)
-
-  Corroded probe points at SPI ROM area bypassed with jumper wires->fixed
-links:
-  - '1614103298768'

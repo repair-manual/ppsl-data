@@ -1,0 +1,5 @@
+label: Not turning on, no green light, 90mA
+description: ''
+solutions:
+  - '480'
+  - '481'

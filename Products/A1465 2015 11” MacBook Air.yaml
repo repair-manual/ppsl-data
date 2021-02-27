@@ -1,9 +1,9 @@
-description: ''
+description: Released early 2015.
 number: 820-00164
 year: '2015'
 modelNumber: A1465
 modelID: MacBookAir7,1
-emc: EMC 2924
+emc: '2924'
 problems:
-  - '1614103291476'
-  - '1614103295793'
+  - '289'
+  - '575'

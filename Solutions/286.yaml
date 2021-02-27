@@ -1,0 +1,7 @@
+label: Blown backlight fuse
+description: |-
+  Caused by Liquid Damage
+
+  Corrosion by backlight area, ldc connector and displayport stuff
+links:
+  - '283'

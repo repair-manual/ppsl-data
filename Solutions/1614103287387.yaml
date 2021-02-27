@@ -1,9 +1,0 @@
-label: CD3215 failed
-description: >-
-  Caused by Liquid Damage
-
-
-  Drawing 5v, 29mA with no loop on one USB port. No power at all on another
-  port. The other two ports, draw 5v up to 56mA and boot loop.
-links:
-  - '1614103287385'

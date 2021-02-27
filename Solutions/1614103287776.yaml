@@ -1,9 +1,0 @@
-label: DC in board broken
-description: >-
-  Caused by Bad charger used
-
-
-  Also reflow of U8900 because it often becomes desoldered on this board
-  (820-3332), U7000, 2 resistors and DC in board replaced->fixed
-links:
-  - '1614103287773'

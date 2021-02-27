@@ -1,0 +1,9 @@
+label: >-
+  0V on backlight enable, 200KOhm resistor in the voltage divider measuring 7.3
+  million ohms
+description: |-
+  Caused by Failed resistor
+
+  R7731 replaced -> fixed
+links:
+  - '555'

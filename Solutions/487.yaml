@@ -1,0 +1,9 @@
+label: Fan was not plugged in properly.
+description: >-
+  Caused by Liquid Damage
+
+
+  Customer removed broken capacitor, new capacitor was placed, SPI ROM chip was
+  corroded and those pads were cleaned.
+links:
+  - '484'

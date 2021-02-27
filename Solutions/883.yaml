@@ -1,0 +1,9 @@
+label: >-
+  Short to ground on data line between SMC and ISL 6259 caused by corrosion at
+  ISL 6259
+description: |-
+  Caused by Liquid Damage
+
+  ISL 6259 replaced->fixed
+links:
+  - '881'

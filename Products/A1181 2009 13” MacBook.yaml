@@ -1,7 +1,8 @@
-description: ''
-number: 661-5242
+description: Released early 2009.
+number: 820-2496
 year: '2009'
 modelNumber: A1181
 modelID: MacBook5,2
-emc: EMC 2330
-problems: []
+emc: '2330'
+problems:
+  - '1158'

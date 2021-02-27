@@ -1,11 +1,11 @@
-description: ''
+description: Released 2016 2xtbt3 no tb.
 number: 820-00875
 year: '2016'
 modelNumber: A1708
 modelID: MacBookPro13,1
-emc: EMC 2978
+emc: '2978'
 problems:
-  - '1614103288868'
-  - '1614103289084'
-  - '1614103289579'
-  - '1614103293299'
+  - '118'
+  - '131'
+  - '164'
+  - '398'

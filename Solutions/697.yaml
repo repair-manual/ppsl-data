@@ -1,0 +1,9 @@
+label: Cracked resistors R7121 and R7122) in the current sense circuit.
+description: >-
+  Caused by Knock-off charger?
+
+
+  Broken resistors were replaced and the ISL6259 (U7100) was replaced as well.
+  Fixed.
+links:
+  - '695'

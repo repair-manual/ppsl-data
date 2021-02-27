@@ -1,0 +1,10 @@
+label: Corrosion
+description: >-
+  Caused by Bad capacitor
+
+
+  JTAG removed, appears someone already had a look (several cables disconnected
+  and longscrewed), Draws 200-270mA, also corrosion caused by liquid damage,
+  1.2Ohm short to ground on PPBUS_G3H, capacitor replaced->fixed
+links:
+  - '95'

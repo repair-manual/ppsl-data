@@ -1,0 +1,7 @@
+label: Logic Board Repair
+description: |-
+  Caused by corrosion
+
+  consumes 67mA; PPVRTC_G3H missing, shorted cap (name not given)
+links:
+  - '441'

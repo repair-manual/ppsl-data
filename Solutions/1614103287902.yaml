@@ -1,9 +1,0 @@
-label: C7560 shorted to ground -> PPBUS_G3H not present
-description: >-
-  Caused by Component failure
-
-
-  Cap replaced -> fixed. Replacement taken from donor board. 'On the older
-  models this typically blows the fuse, on the newer ones it doesn't.'
-links:
-  - '1614103287900'

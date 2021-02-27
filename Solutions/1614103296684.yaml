@@ -1,7 +1,0 @@
-label: Corrosion around 5V regulator/TPS51980 (U7501)
-description: |-
-  Caused by Liquid Damage
-
-  TPS51980 was replaced and related corroded capacitors were replaced.
-links:
-  - '1614103296682'

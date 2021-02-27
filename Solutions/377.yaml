@@ -1,0 +1,9 @@
+label: PP3V3_G3H short to ground
+description: >-
+  Caused by Corrosion at CD3215
+
+
+  Board taking 5.12V 280mA, PP3V3_G3H at 1.8V because of 160Ohm short to ground,
+  CD3215 replaced->fixed
+links:
+  - '376'

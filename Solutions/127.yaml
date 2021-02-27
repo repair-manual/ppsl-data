@@ -1,0 +1,9 @@
+label: PP3V3S5 short to ground
+description: >-
+  Caused by Bad capacitor
+
+
+  Green light charger, 3.6A when PP3V3S5 connected to power supply, capacitor
+  replaced->fixed
+links:
+  - '125'

@@ -1,0 +1,5 @@
+label: No backlight, Kernel panics/beeping on boot.
+description: ''
+solutions:
+  - '486'
+  - '487'

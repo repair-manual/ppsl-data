@@ -1,9 +1,0 @@
-label: LVDS MUX chip became desoldered from the board
-description: >-
-  Caused by LVDS MUX chip became desoldered from the board
-
-
-  Customer asked to replace screen cable, LVDS MUX chip reflow (2x, one time was
-  not recorded)->fixed
-links:
-  - '1614103297827'

@@ -1,9 +1,0 @@
-label: PPBUS_G3H short to ground
-description: >-
-  Caused by Bad capacitor
-
-
-  Board taking 20V, 20mA, PPBUS_G3H 0.3V because of a 56Ohm short to ground,
-  replaced bad capacitor->fixed
-links:
-  - '1614103293700'

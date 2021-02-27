@@ -1,0 +1,10 @@
+label: 20mA power draw at 20V. 16 ohm short to ground on PPBUS_G3H.
+description: >-
+  Caused by Component failure
+
+
+  Very minimal troubleshooting needed for this one. Short to ground on PPBUS_G3H
+  -> look around board -> tantalum cap is cracked and charred -> replace
+  capacitor -> fixed.
+links:
+  - '373'

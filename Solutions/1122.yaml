@@ -1,0 +1,11 @@
+label: >-
+  PPVOUT_SW_BCKLT measures around 0.010Ω instead between 0.526-0.538Ω to ground
+  in Diode mode, PPVOUT_SW_BCKLT_FB trace broken
+description: >-
+  Caused by Liquid Damage
+
+
+  Conductive pen CW2200MTP used and recommended
+  (https://www.all-spec.com/Product/CW2200MTP-9700)
+links:
+  - '1121'

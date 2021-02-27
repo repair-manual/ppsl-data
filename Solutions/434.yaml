@@ -1,0 +1,9 @@
+label: PPBUS_G3H low because SMC is not turning on
+description: >-
+  Caused by Bad U5110 (chip responsible for SMC_RESET_L)
+
+
+  PPBUS_G3H is 12.23V caused by SMC not turning on, U5110 (chip responsible for
+  SMC_RESET_L) replaced->fixed
+links:
+  - '432'

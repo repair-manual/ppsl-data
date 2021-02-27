@@ -1,7 +1,0 @@
-label: cap exploded causing a short 4 layers deep on the board
-description: |-
-  Caused by a cap decided to explode causing a short
-
-  scrapping the board removed the short
-links:
-  - '1614103289963'

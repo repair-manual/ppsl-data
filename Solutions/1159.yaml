@@ -1,0 +1,10 @@
+label: Trace and 0Ohm resistor missing
+description: >-
+  Caused by Hole in board
+
+
+  White MacBook, Louis uses a test screen, new inverter and new inverter cable
+  during repair,  0Ohm resistor replaced and jumper wire to replace missing
+  trace->fixed
+links:
+  - '1157'

@@ -1,9 +1,9 @@
-description: ''
+description: Released mid 2015.
 number: 820-00138
 year: '2015'
 modelNumber: A1398
 modelID: MacBookPro11,4
-emc: EMC 2909
+emc: '2909'
 problems:
-  - '1614103290160'
-  - '1614103291819'
+  - '204'
+  - '309'

@@ -1,9 +1,0 @@
-label: Corroded ISL6263C
-description: >-
-  Caused by Liquid Damage
-
-
-  Power on LED driver output OK but not on display connector. Probably burnt pad
-  or track. Rewired directly from LED driver to connector.
-links:
-  - '1614103298693'

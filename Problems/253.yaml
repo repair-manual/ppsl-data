@@ -1,0 +1,5 @@
+label: 500mA, 340mA, variable amperage, intermittent fan spin.
+description: ''
+solutions:
+  - '254'
+  - '255'

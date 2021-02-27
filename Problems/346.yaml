@@ -1,0 +1,5 @@
+label: Not turning on, up to 200mA, charger light stays orange.
+description: ''
+solutions:
+  - '347'
+  - '348'

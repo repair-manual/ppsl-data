@@ -1,0 +1,7 @@
+label: Logic Board Repair
+description: |-
+  Caused by U7090 died
+
+  12 mA from charger, 3.0 V on PP3V42, turned on after heating U7090
+links:
+  - '445'

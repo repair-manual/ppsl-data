@@ -1,8 +1,8 @@
-description: ''
+description: Released mid 2013.
 number: 820-3435
 year: '2013'
 modelNumber: A1465
 modelID: MacBookAir6,1
-emc: EMC 2631
+emc: '2631'
 problems:
-  - '1614103287520'
+  - '34'

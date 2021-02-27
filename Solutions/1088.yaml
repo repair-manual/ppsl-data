@@ -1,0 +1,11 @@
+label: >-
+  MOSFET Q5660 bad and this damaged the 100KOhm resistor from the motor control
+  circuit
+description: >-
+  Caused by Bad MOSFET Q5660
+
+
+  100KOhm resistor was only 2KOhm, replaced this resistor and MOSFET
+  Q5660->fixed
+links:
+  - '1084'

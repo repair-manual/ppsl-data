@@ -1,0 +1,7 @@
+label: U4600 Chip not working properly
+description: |-
+  Caused by Defective chip
+
+  Both USB ports tested and not working.
+links:
+  - '324'

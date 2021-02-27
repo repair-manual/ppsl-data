@@ -1,0 +1,9 @@
+label: U6901 PP3V42_G3H_ONEWIRE does not have 3.42Volts.
+description: >-
+  Caused by Liquid Damage
+
+
+  Pulled out trace, was restored and covered with (recommened) conformal coating
+  pen CircuitWorks CW3300G (https://www.all-spec.com/Product/CW3300G-9700)
+links:
+  - '1107'

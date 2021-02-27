@@ -1,0 +1,9 @@
+label: PM_SLP_S4_L missing, not pulsing
+description: >-
+  Caused by Corrosion under U1950
+
+
+  9mA power draw in computer, 35mA power draw on bench, PPBUS_G3H, PPVRTC_G3H,
+  PP5VS5 all present, PP5VS4 missing. Replaced U1950 -> fixed.
+links:
+  - '618'

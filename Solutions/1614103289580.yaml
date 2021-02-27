@@ -1,7 +1,0 @@
-label: 59 Ohm short to ground on backlight circuit
-description: |-
-  Caused by Bad capacitor
-
-  0V on backlight, capacitor replaced->fixed
-links:
-  - '1614103289578'

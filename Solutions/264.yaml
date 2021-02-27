@@ -1,0 +1,10 @@
+label: Backlight voltage 8.5 = no boost. Corrosion under and around LED driver
+description: >-
+  Caused by Liquid Damage
+
+
+  Backlight boost circuit not working because feedback not working because of
+  corrosion under/around LED driver. Placed a wire to fix a trace, removed
+  corrosion, replaced LED driver and some small resistors -> fixed.
+links:
+  - '263'

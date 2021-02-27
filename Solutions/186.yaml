@@ -1,0 +1,9 @@
+label: stuck at 5 volts 20-30ma
+description: >-
+  Caused by thunderbolt ROM on one of the sides is bad, need to be replaced
+
+
+  watch this video from 15:14 to get more info on this specific diagnosis  
+  https://www.youtube.com/watch?v=vXAK2l1oMZM
+links:
+  - '184'

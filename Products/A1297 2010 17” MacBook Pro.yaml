@@ -1,8 +1,8 @@
-description: ''
+description: Released mid 2010.
 number: 820-2849
 year: '2010'
 modelNumber: A1297
 modelID: MacBookPro6,1
-emc: EMC 2352
+emc: '2352'
 problems:
-  - '1614103296938'
+  - '705'

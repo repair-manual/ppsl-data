@@ -1,0 +1,10 @@
+label: Lots of corrosion
+description: >-
+  Caused by Liquid damage
+
+
+  Corrosion at U7200 area responsible vor power to CPU (luckily CPU was not
+  dead) Repair/reflow of corroded areas and replaced several corroded
+  components->lixed
+links:
+  - '15'

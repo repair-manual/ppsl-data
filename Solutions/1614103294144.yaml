@@ -1,9 +1,0 @@
-label: Shorted backlight output capacitor
-description: >-
-
-
-  identified by checking backlight output resistance while unplugging screen to
-  confirm it's a short there, then passing 5 V through the board and pouring
-  alcohol on it to see which part boils away first
-links:
-  - '1614103294142'
