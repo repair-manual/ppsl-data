@@ -1,4 +1,10 @@
 label: No Backlight
-description: ''
+description: >-
+  Can be a problem with the screen, the inverter, the inverter cable or with the
+  board.
+
+
+  Check by replacing the screen, the inverter, the inverter cable with
+  working/test parts.
 solutions:
   - '1159'
