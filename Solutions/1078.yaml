@@ -1,4 +1,9 @@
-label: ''
-description: Caused by Liquid Damage
+label: Check Capacitor C7403
+description: >-
+  Caused by Liquid Damage
+
+
+  Check Capacitor C7403 and trace PP5V_S0_CPUIMVP. If not supplying 5V to U7400,
+  replace.
 links:
   - '1076'

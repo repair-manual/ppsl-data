@@ -5,4 +5,6 @@ modelNumber: A1465
 modelID: MacBookAir5,1
 emc: '2558'
 problems:
-  - '870'
+  - '1614390835398'
+  - '1614390708901'
+  - '1614390585172'

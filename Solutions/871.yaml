@@ -3,9 +3,7 @@ description: >-
   Caused by Liquid Damage
 
 
-  a lot of corrosion on the board cleaned with flux and ultrasonic, LED driver
-  chip U9701 replaced (one of the solder balls was corroded away), machine died,
-  bad resistor R6905 (300KOhm) replaced and 200KOhm resistor for voltage divider
-  of backlight output enable replaced-> fixed
+  A lot of corrosion on the board cleaned with flux and ultrasonic, LED driver
+  chip U9701 replaced (one of the solder balls was corroded away).
 links:
   - '869'

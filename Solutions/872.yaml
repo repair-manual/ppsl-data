@@ -1,13 +1,17 @@
-label: >-
-  Resistor R6905 bad and 200KOhm resistor for voltage divider backlight enable
-  bad
+label: 200KOhm resistor for voltage divider backlight enable bad
 description: >-
   Caused by Liquid Damage
 
 
-  a lot of corrosion on the board cleaned with flux and ultrasonic, LED driver
-  chip U9701 replaced (one of the solder balls was corroded away), machine died,
-  bad resistor R6905 (300KOhm) replaced and 200KOhm resistor for voltage divider
-  of backlight output enable replaced-> fixed
+  Bad 200KOhm resistor from voltage divider for backlight output enable (next to
+  LED driver chip U9701)
+
+  (liquid damage, lots of corrosion cleaned, first problem was flickering
+  backlight, also not turning on during repair)
+
+
+  A lot of corrosion on the board cleaned with flux and ultrasonic, machine
+  died, 200KOhm resistor for voltage divider of backlight output enable.
+  Replaced -> fixed.
 links:
   - '869'
