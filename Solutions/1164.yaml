@@ -2,6 +2,8 @@ label: Backlight-fuse blown
 description: |-
   Caused by Bad QFN chip
 
+  Faulty QFN chip repeatedly blows backlight fuse.
+
   Unibody
 links:
   - '1161'
