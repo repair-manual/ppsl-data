@@ -1,0 +1,8 @@
+label: SMC_RESET_L low due to bad SMC
+description: >-
+  REMEMBER: SMC is not on if PPBUS_G3H is 8.15v instead of 8.55v.
+
+
+  (SMC needs to communicate with U7100 to tell it over SMBUS line to raise
+  PPBUS_G3H from 8.15v to 8.55v)
+links: []

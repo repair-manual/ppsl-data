@@ -1,0 +1,5 @@
+label: Corrosion on RTC pullup resistors R1300 to R1303
+description: >-
+  Corrosion on RTC pullup resistors R1300 to R1303 (or C1300/C1303 shorted to
+  ground).
+links: []

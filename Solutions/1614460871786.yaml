@@ -1,0 +1,5 @@
+label: 19-20V
+description: >-
+  BKL_PWM low, or SMC_LID low due to bad DC in board. SMC_LID also comes from
+  the trackpad, so a bad trackpad can cause this.
+links: []

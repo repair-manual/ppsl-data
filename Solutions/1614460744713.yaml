@@ -1,0 +1,5 @@
+label: Dead CPU
+description: >-
+  If you remove R8111 and PM_SLP_S4_L comes back, it's most likely dead CPU,
+  check for corrosion around RAM area and if none then most likely dead CPU.
+links: []

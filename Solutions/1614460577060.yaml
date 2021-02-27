@@ -1,0 +1,5 @@
+label: SMC_RESET_L low due to corrosion
+description: >-
+  SMC_RESET_L low due to corroded R5115 pullup resistor, bad U5110, or bad
+  U5000.
+links: []
