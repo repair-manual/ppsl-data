@@ -1,0 +1,12 @@
+label: You think PPBUS_G3H is 8.55v
+description: >-
+  You measured the right side of the fuse, not the left side of the fuse,
+  because you are right handed and keep the red probe of your multimeter in your
+  right hand. Had you measured the left side of the fuse, you'd realize the fuse
+  is blown, likely due to a short circuit.
+
+
+  You are probably off in the wilderness, hunting why your PP3V3_S5 & PP5V_S5
+  are missing, before you even have PPBUS_G3H... We've all been there.
+links:
+  - '869'
