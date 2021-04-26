@@ -2,4 +2,5 @@ label: Bad trackpad
 description: >-
   Trackpad controls SMC_LID, and SMC_RESET_L - So trackpad can mess with
   backlight.
-links: []
+links:
+  - '1059'

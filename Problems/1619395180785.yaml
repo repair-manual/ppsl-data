@@ -1,0 +1,4 @@
+label: SMC_RESET_L low, but board works outside of case
+description: ''
+solutions:
+  - '1614460685477'
