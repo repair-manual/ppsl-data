@@ -35,9 +35,9 @@ Legends: `?` = May be left optional
 
 - Product
   - description `string` `?` A brief description about the product
-  - number `string` `?` Logic board number for the product.
+  - number `string` `?` Logic board number for the product
   - year `string` `?` Model release year
-  - problems `array[Problem]` `?` Array of the problems relating to this product.
+  - problems `array[Problem]` `?` Array of the problems relating to this product
 
 - Problem
   - label `string` `?` The name of the problem
@@ -56,6 +56,6 @@ Legends: `?` = May be left optional
   - url `string` `?` URL of the link
 
 - Tag
-  - parent `integer` `?` The identifier of the parent tag.
-  - label `string` `?` Name of the tag.
-  - description `string` `?` Brief description about the tag.
+  - parent `integer` `?` The identifier of the parent tag
+  - label `string` `?` Name of the tag
+  - description `string` `?` Brief description about the tag
