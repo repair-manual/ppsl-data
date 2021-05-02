@@ -14,17 +14,22 @@ Thanks to all of the people who contributed to the Google Docs that this data is
     A copy of the license is included in a file named LICENSE found in the root of the project directory.
 
 ## Relation
-Product has problems.
-Problems may have solutions.
-Problems may have tags.
-Tags may have parent tags.
-Solutions may have links.
+- Product has problems.
+
+- Problems may have solutions.
+
+- Problems may have tags.
+
+- Tags may have parent tags.
+
+- Solutions may have links.
 
 Legends: `?` = May be left optional
 
 ## The format
 
 The data is stored in yaml files in the directories of this repository.
+
 All the data structures use their filename as the identifier.
 
 - Product
