@@ -24,13 +24,14 @@ Thanks to all of the people who contributed to the Google Docs that this data is
 
 - Solutions may have links.
 
-Legends: `?` = May be left optional
 
 ## The format
 
 The data is stored in yaml files in the directories of this repository.
 
 All the data structures use their filename as the identifier.
+
+Legends: `?` = May be left optional
 
 - Product
   - description `string` `?` A brief description about the product
