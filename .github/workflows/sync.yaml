@@ -14,3 +14,6 @@ jobs:
         with:
           mediawiki-api-endpoint: https://repair.wiki/api.php
           repo-local-path: "${{ github.workspace }}/data"
+        env:
+          MEDIAWIKI_USERNAME: ${{ secrets.MEDIAWIKI_USERNAME }}
+          MEDIAWIKI_PASSWORD: ${{ secrets.MEDIAWIKI_PASSWORD }}
