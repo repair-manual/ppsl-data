@@ -1,0 +1,22 @@
+name: PPSL-Sync
+on:
+  push:
+    branches:
+      - main
+jobs:
+  sync:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+        with:
+          path: ./data
+
+      - name: Run PPSL-Sync
+        uses: kararty/ppsl-sync@dist
+        with:
+          mediawiki-api-endpoint: https://repair.wiki/api.php
+          repo-local-path: "${{ github.workspace }}/data"
+        env:
+          MEDIAWIKI_USERNAME: ${{ secrets.MEDIAWIKI_USERNAME }}
+          MEDIAWIKI_PASSWORD: ${{ secrets.MEDIAWIKI_PASSWORD }}
