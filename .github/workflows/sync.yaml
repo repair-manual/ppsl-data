@@ -11,7 +11,7 @@ jobs:
       - run: echo "${{ github.repository }} cloned to runner."
 
       - name: Run PPSL-Sync
-        uses: kararty/ppsl-sync@master
+        uses: kararty/ppsl-sync@main
         with:
           mediawiki-api-endpoint: https://repair.wiki/api.php
           repo-local-path: "${{ github.workspace }}/ppsl-data"
