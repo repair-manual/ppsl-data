@@ -1,0 +1,17 @@
+name: PPSL-Sync
+on: [push]
+jobs:
+  sync:
+    runs-on: ubuntu-18.04
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+        with:
+          path: ./ppsl-data
+      - run: echo "${{ github.repository }} cloned to runner."
+
+      - name: Run PPSL-Sync
+        uses: kararty/ppsl-sync@0790cddbf1b738ff9343f85ed8b420513fd90ec4
+        with:
+          mediawiki-api-endpoint: https://repair.wiki/api.php
+          repo-local-path: "${{ github.workspace }}/ppsl-data"
