@@ -7,15 +7,10 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v2
         with:
-          path: ./ppsl-data
-
-      - name: Get NodeJS v14.
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
+          path: ./data
 
       - name: Run PPSL-Sync
-        uses: kararty/ppsl-sync@main
+        uses: kararty/ppsl-sync@dist
         with:
           mediawiki-api-endpoint: https://repair.wiki/api.php
-          repo-local-path: "${{ github.workspace }}/ppsl-data"
+          repo-local-path: "${{ github.workspace }}/data"
