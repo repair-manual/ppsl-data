@@ -13,7 +13,7 @@ jobs:
           path: ./data
 
       - name: Run PPSL-Sync
-        uses: kararty/ppsl-sync@dist
+        uses: repair-manual/ppsl-sync@dist
         with:
           mediawiki-api-endpoint: https://repair.wiki/api.php
           repo-local-path: "${{ github.workspace }}/data"
